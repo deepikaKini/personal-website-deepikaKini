@@ -11,10 +11,11 @@ body {
     font-size: 1.5rem;
     line-height: 1.6;
     color: #FFFFFF;
-    background: url(background.png) center center no-repeat fixed;
-    background-size: cover;
-    max-width: 900px;
-    margin: 0 auto;
+    /*background: url(image.png) center center no-repeat fixed;*/
+    /*background-size: cover;*/
+/*    max-width: 900px;
+    margin: 0 auto;*/
+    background:linear-gradient(135deg, #f0f8ff, #ffa500); 
 }
 
 /* Header Styling */
@@ -85,7 +86,7 @@ body {
 
 .main-menu li a {
     font-size: 1.6rem;
-    color: #cfd2da;
+    color: #ffffff;
     text-decoration: none;
 }
 
@@ -131,7 +132,7 @@ footer {
 
 /* Link Styling */
 a {
-    color: #EF6D3D;
+    color: #b399ff;
     text-decoration: none;
 }
 
